@@ -1,4 +1,4 @@
-package MathodOverLoadding;
+
 
 public class MathodOverloading extends test3
 {
@@ -6,8 +6,8 @@ public class MathodOverloading extends test3
     {
         MathodOverloading t = new MathodOverloading ();
 
-        t.display(10);
-        t.display("ashish");
+       // t.display(10);
+       // t.display("ashish");
 
     }
 }

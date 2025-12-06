@@ -14,7 +14,7 @@ public class keyword
     {
        keyword ob = new keyword();
        // System.out.println(" i am main method :" + ob );
-        ob.m1(20);
+        ob.m1(20,"name");
         System.out.println(ob.no);
     }
 }

@@ -16,7 +16,7 @@ class ThreadMethodDemo11 extends Thread
     }
 
     public static void main(String[] args) {
-        ThreadMethodDemo t = new ThreadMethodDemo();
+        ThreadMethodDemo11 t = new ThreadMethodDemo11();
         t.start();
         try {
             for (int i = 1; i < 10; i++) {

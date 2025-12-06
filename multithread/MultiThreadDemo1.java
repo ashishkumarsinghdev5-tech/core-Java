@@ -1,4 +1,4 @@
-package multiThread;
+
 
 class MultiThreadDemo1 implements Runnable
 {

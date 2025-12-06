@@ -1,4 +1,3 @@
-package multiThread;
 
  class Thread1 extends Thread
  {
